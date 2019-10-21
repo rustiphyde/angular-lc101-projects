@@ -1,11 +1,11 @@
 .chores {
   font-family: 'Jomolhari', serif;
-  font-size: 24px;
   color: #35bb6d;
 }
 
 h3 {
   text-decoration: underline;
+  font-size: 24px;
 }
 
 li {
